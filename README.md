@@ -4,6 +4,11 @@ A modern, responsive Web-based GPS Tracking Dashboard built with HTML5, CSS3, Bo
 
 ---
 
+## 🚀 Live Demo
+> **[⚡ View Web-Tracker Live in Your Browser](https://web-tracker-rho-pied.vercel.app/)**
+
+---
+
 ## ✨ Features
 
 - **🔐 User Authentication UI:** Beautiful and clean Login and Registration pages with modern floating labels.
